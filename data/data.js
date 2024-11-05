@@ -158,7 +158,7 @@ export const musicArray = [
     socialLinks: {
       facebook: "https://www.facebook.com/song1",
       twitter: "https://www.twitter.com/song1",
-      instagram: "https://www.instagram.com/song1",
+      instagram: "https://www.instagram.com/smaxx.dub/profilecard/?igsh=dDNldTd1NTlyNmJl",
       pinterest: "https://www.pinterest.com/song1",
     },
   },
@@ -170,7 +170,7 @@ export const musicArray = [
     socialLinks: {
       facebook: "https://www.facebook.com/song2",
       twitter: "https://www.twitter.com/song2",
-      instagram: "https://www.instagram.com/song2",
+      instagram: "https://www.instagram.com/smaxx.dub/profilecard/?igsh=dDNldTd1NTlyNmJl",
       pinterest: "https://www.pinterest.com/song2",
     },
   },
@@ -182,7 +182,7 @@ export const musicArray = [
     socialLinks: {
       facebook: "https://www.facebook.com/song3",
       twitter: "https://www.twitter.com/song3",
-      instagram: "https://www.instagram.com/song3",
+      instagram: "https://www.instagram.com/smaxx.dub/profilecard/?igsh=dDNldTd1NTlyNmJl",
       pinterest: "https://www.pinterest.com/song3",
     },
   },
@@ -194,7 +194,7 @@ export const musicArray = [
     socialLinks: {
       facebook: "https://www.facebook.com/song4",
       twitter: "https://www.twitter.com/song4",
-      instagram: "https://www.instagram.com/song4",
+      instagram: "https://www.instagram.com/smaxx.dub/profilecard/?igsh=dDNldTd1NTlyNmJl",
       pinterest: "https://www.pinterest.com/song4",
     },
   },
@@ -206,7 +206,7 @@ export const musicArray = [
     socialLinks: {
       facebook: "https://www.facebook.com/song5",
       twitter: "https://www.twitter.com/song5",
-      instagram: "https://www.instagram.com/song5",
+      instagram: "https://www.instagram.com/smaxx.dub/profilecard/?igsh=dDNldTd1NTlyNmJl",
       pinterest: "https://www.pinterest.com/song5",
     },
   },

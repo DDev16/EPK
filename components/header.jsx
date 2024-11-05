@@ -30,7 +30,7 @@ const Header = () => {
       )}
     >
       <Link className="text-xl md:text-2xl leading-snug font-bold" href="/">
-        FeeliT
+        SMAXX
       </Link>
       <ul className="hidden lg:flex items-center font-medium gap-8 lg:gap-12 uppercase">
         <li>

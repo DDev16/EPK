@@ -5,7 +5,7 @@ import {
   FaFacebookF,
   FaTwitter,
   FaInstagram,
-  FaPinterestP,
+  FaSoundcloud,
 } from "react-icons/fa6";
 import SocialIcon from "./icon";
 
@@ -74,17 +74,17 @@ const Footer = () => {
               <div>NY, USA</div>
 
               <div className="flex pt-4 gap-10">
-                <Link target="_blank" href="https://www.facebook.com/">
+                <Link target="_blank" href="https://www.facebook.com/max.choate.3">
                   <SocialIcon Icon={FaFacebookF} />
                 </Link>
                 <Link target="_blank" href="https://twitter.com/">
                   <SocialIcon Icon={FaTwitter} />
                 </Link>
-                <Link target="_blank" href="https://www.instagram.com/">
+                <Link target="_blank" href="https://www.instagram.com/smaxx.dub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
                   <SocialIcon Icon={FaInstagram} />
                 </Link>
-                <Link target="_blank" href="https://www.pinterest.com/">
-                  <SocialIcon Icon={FaPinterestP} />
+                <Link target="_blank" href="https://soundcloud.com/ma4a4ax?ref=clipboard&p=i&c=1&si=6F4726C2E5A444D5AEC7404F52E1537E&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
+                  <SocialIcon Icon={FaSoundcloud} />
                 </Link>
               </div>
             </div>

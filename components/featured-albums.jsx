@@ -66,7 +66,7 @@ const FeaturedAlbums = () => {
                         <Link href={music.socialLinks.twitter}>
                           <SocialIcon Icon={FaTwitter} />
                         </Link>
-                        <Link href={music.socialLinks.instagram}>
+                        <Link href="https://www.instagram.com/smaxx.dub/profilecard/?igsh=dDNldTd1NTlyNmJl">
                           <SocialIcon Icon={FaInstagram} />
                         </Link>
                         <Link href={music.socialLinks.pinterest}>

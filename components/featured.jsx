@@ -13,7 +13,7 @@ const LazyReactPlayer = dynamic(() => import("react-player"), {
 //method call 
 const Featured = () => {
   const videoUrl =
-    "https://www.youtube.com/embed/K4DyBUG242c?si=y05o4Db44jM4XZRV";
+    "https://www.youtube.com/watch?v36V4f6A5YkI=";
   const [play, setPlay] = useState(false);
 
   return (
@@ -25,18 +25,18 @@ const Featured = () => {
             data-aos="fade-up"
             className="flex-1 text-center lg:text-start "
           >
-            <h2>
-              SOMETIMES WE RAISE <br className="hidden lg:block" />
-              TO THE OCCASION
-            </h2>
-            <p className="text-cyan mx-auto lg:mx-0 mt-10 mb-12 max-w-[533px]">
-              Velit egestas dui id ornare arcu. Nibh sit amet commodo nulla
-              nullam vehicula. Arcu dictum varius duis at consectetur. Faucibus
-              nisl tincidunt eget nullam facilisis gravida neque.
-            </p>
-            <Link className="font-medium text-rose hover:text-white duration-300 transition-all ease-linear" href="/">
+            <h2 className="text-right">
+  ABOUT SMAXX <br className="hidden lg:block" />
+</h2>
+<p className="text-cyan text-right mx-auto lg:mx-50 mt-10 mb-12 max-w-[533px]">
+  Hailing from Asheville, North Carolina, and later planting roots in Denver at the age of 9, Max has been immersed in a world of artistry and sound from day one. With a father who rocked stages in a band at 16 and a mother who mastered the streets as an artist, creativity runs deep in his veins. From the age of 4, Max was playing drums, piano, guitar, ukulele, singing, and, most notably, mastering the cowbell, which quickly became his signature touch.
+
+  At 18, Max's musical journey took a turn toward the electronic scene, where he discovered a passion for producing. Now, six years deep into the world of production, he’s carved out a unique niche with his signature sound—a gritty fusion of downtempo, grimy riddim, trap, dubstep, and bass music. Max calls this distinct style "thug step."
+</p>
+
+            {/* <Link className="font-medium text-rose hover:text-white duration-300 transition-all ease-linear" href="/">
               MORE ABOUT US
-            </Link>
+            </Link> */}
           </div>
           <div data-aos="fade-up" className="flex-1 relative isolate">
             {!play && (

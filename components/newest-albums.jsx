@@ -15,11 +15,11 @@ const NewestAlbums = () => {
       <Container className="py-section relative z-20">
         <SectionHeading className="flex flex-col lg:flex-row gap-8 justify-between items-center text-center lg:text-start">
           <h2 className="max-w-3xl">
-            CHECK OUR NEWEST ALBUMS AND SINGLE PODCAST
+            GOOD TIMES WITH GOOD FREINDS
           </h2>
-          <Link className="font-medium hover:text-white transition-all duration-300 ease-linear underline text-rose" href="/">
+          {/* <Link className="font-medium hover:text-white transition-all duration-300 ease-linear underline text-rose" href="/">
             VIEW ALL RELEASES
-          </Link>
+          </Link> */}
         </SectionHeading>
         <div className="flex flex-col gap-8 md:gap-10 lg:gap-16 ">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:flex gap-8 md:gap-10 lg:gap-16 flex-wrap items-end">
@@ -30,7 +30,7 @@ const NewestAlbums = () => {
               <AlbumOverly>
                 <p className="text-sm capitalize line-clamp-1">Night show</p>
                 <h6 className="text-lg uppercase font-bold line-clamp-1">
-                  Hello MORING
+                  
                 </h6>
               </AlbumOverly>
 
