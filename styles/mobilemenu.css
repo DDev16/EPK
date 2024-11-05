@@ -36,7 +36,7 @@ author: nsstheme
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: white;
+  background: rgb(19, 16, 16);
   padding: 32px;
   z-index: 200;
   animation: slideIn 500ms cubic-bezier(0.14, 0.78, 0.36, 1);
